@@ -10,5 +10,9 @@
     "profile": {
       "name": "typicode"
     }
+  },
+  "object": {
+    "var_1": 123,
+    "var_2": 1000.0
   }
 }
