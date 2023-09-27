@@ -1,7 +1,7 @@
 {
-  id_str: "1234567890",
-  object: {
-    content: [
+  "id_str": "1234567890",
+  "object": {
+    "content": [
       1,
       2
     ]
